@@ -10,7 +10,7 @@ This project is a **Face Attendance System** using Python, OpenCV, `face_recogni
 ├── faces_encoding.ipynb      # Script to load and encode known faces
 ├── GUI.ipynb                 # GUI app for live face recognition and attendance marking
 ├── encodings.pkl             # Auto-generated file that stores face encodings
-├── D:\Attendance\persons     # Folder that contains images of known people
+├── `path\to\your\images`     # Folder that contains images of known people
 └── README.md                 # You're here!
 ```
 
